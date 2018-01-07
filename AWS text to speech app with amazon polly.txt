@@ -1,0 +1,33 @@
+AWS text to speech app with amazon polly
+
+urls I left off with:
+TUTORIAL:
+https://aws.amazon.com/blogs/ai/build-your-own-text-to-speech-applications-with-amazon-polly/
+MY AWS ACCOUNT:
+https://us-west-2.console.aws.amazon.com/lambda/home?region=us-west-2#/functions/PostReader_NewPost?tab=graph
+https://console.aws.amazon.com/iam/home?region=us-west-2#/roles/postreader_newpost
+https://us-west-2.console.aws.amazon.com/dynamodb/home?region=us-west-2#tables:selected=posts
+MY GITHUB:
+https://github.com/mchez808/aws-learnin
+
+	glossary: 
+		RESTful web services 
+		Amazon SNS: Simple Notification Service:
+			it's Pub/Sub messaging (like Rabbitmq)
+		Amazon S3
+		Amazon DynamoDB - document storage (unstructured)
+		
+	aws.amazon.com/blogs/ai/build-your-own-text-to-speech-applications-with-amazon-polly/
+	build your own text to speech app
+	
+	in CMD prompt: git clone https://github.com/mchez808/aws-learnin.git
+	
+	in VS Code:
+		CTRL+SHIFT+P -- then shortcut keys are enabled.
+		
+	S3: new bucket
+		"audioposts-mchez808-aws-learnin"
+		https://i.ytimg.com/vi/WP5tg3TYeqo/hqdefault.jpg
+		
+		
+		
